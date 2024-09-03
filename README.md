@@ -32,7 +32,7 @@ VALUES (
 );
 ```
 
-Run pg2b3dm
+Run pg2b3dm (executables on https://github.com/Geodan/pg2b3dm/releases)
 
 ```
 pg2b3dm -U postgres -h localhost -p 5432 -d postgres -t cube -c geom -a name
