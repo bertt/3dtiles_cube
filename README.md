@@ -38,4 +38,7 @@ Run pg2b3dm
 pg2b3dm -U postgres -h localhost -p 5432 -d postgres -t cube -c geom -a name
 ```
 
-Result see 
+Result see https://bertt.github.io/3dtiles_cube/demo/
+
+![image](https://github.com/user-attachments/assets/8b7db318-f95e-447c-87e0-3a726986e1cb)
+
