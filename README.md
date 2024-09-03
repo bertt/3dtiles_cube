@@ -1,6 +1,6 @@
 # 3dtiles_cube
 
-Example code to create a cube at Dam square
+Example code to create a cube at Dam square, a minimal example to create 3D Tiles
 
 Create input table 
 
