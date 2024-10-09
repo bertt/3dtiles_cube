@@ -42,5 +42,5 @@ Result see https://bertt.github.io/3dtiles_cube/demo/dam
 
 ![image](https://github.com/user-attachments/assets/8b7db318-f95e-447c-87e0-3a726986e1cb)
 
-Demo cube in France (Bedoin) https://bertt.github.io/3dtiles_cube/demo/dam
+Demo cube in France (Bedoin) https://bertt.github.io/3dtiles_cube/demo/bedoin
 
