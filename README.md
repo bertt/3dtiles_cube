@@ -38,7 +38,7 @@ Run pg2b3dm (executables on https://github.com/Geodan/pg2b3dm/releases)
 pg2b3dm -U postgres -h localhost -p 5432 -d postgres -t cube -c geom -a name
 ```
 
-Result see https://bertt.github.io/3dtiles_cube/demo/dam
+Result see https://bertt.github.io/3dtiles_cube/demo/dam/1.0/ (use b3dm) or https://bertt.github.io/3dtiles_cube/demo/dam/1.1/ (uses glb) 
 
 ![image](https://github.com/user-attachments/assets/8b7db318-f95e-447c-87e0-3a726986e1cb)
 
